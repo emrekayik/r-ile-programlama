@@ -1,5 +1,7 @@
 # 1. Hafta odevi
 ## Emre Kayık
+## https://github.com/emrekayik/r-ile-programlama.git
+
 
 # Soru 1 - R dışındaki bilimsel araştırmalara yöneli betik temelli diller:
 
