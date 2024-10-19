@@ -1,5 +1,6 @@
 # 2. Hafta odevi
 ## Emre Kayık
+## https://github.com/emrekayik/r-ile-programlama.git
 
 # Soru 1 - 1 ile 100 arasındaki tamsayılardan oluşan bir vektör oluşturunuz.
 
