@@ -13,7 +13,7 @@ R İstatistiksel Programlama Dili dersi ödevleri
 
 - [![3. Hafta](https://img.shields.io/badge/3.-Hafta-blue.svg)](https://github.com/emrekayik/r-ile-programlama/blob/main/odev-3.R)
 
-- [![4. Hafta](https://img.shields.io/badge/4.-Hafta-black.svg)](https://github.com/emrekayik/r-ile-programlama/blob/main/odev-4.R)
+- [![4. Hafta](https://img.shields.io/badge/4.-Hafta-pink.svg)](https://github.com/emrekayik/r-ile-programlama/blob/main/odev-4.R)
 
 
 ## Kullanılan Teknolojiler
@@ -30,10 +30,7 @@ Projeyi klonlayın
   git clone https://github.com/emrekayik/r-ile-programlama.git
 ```
 
-Proje dizinine gidin
+Proje dizinini RStudio'da açın
 
-```bash
-  cd r-ile-programlama
-```
 
   
