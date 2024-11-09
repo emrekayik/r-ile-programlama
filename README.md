@@ -11,6 +11,11 @@ R İstatistiksel Programlama Dili dersi ödevleri
 
 - [![2. Hafta](https://img.shields.io/badge/2.-Hafta-yellow.svg)](https://github.com/emrekayik/r-ile-programlama/blob/main/odev-2.R)
 
+- [![3. Hafta](https://img.shields.io/badge/3.-Hafta-blue.svg)](https://github.com/emrekayik/r-ile-programlama/blob/main/odev-3.R)
+
+- [![4. Hafta](https://img.shields.io/badge/4.-Hafta-black.svg)](https://github.com/emrekayik/r-ile-programlama/blob/main/odev-4.R)
+
+
 ## Kullanılan Teknolojiler
 
 **Editör:** RStudio

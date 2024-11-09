@@ -93,3 +93,5 @@ matris <- cbind(matris, c(3, 4))
 matris1 <- matrix(c(2, 3, 0, 1, 0, 6, 1, 1, 3), nrow = 3, ncol = 3, byrow = TRUE)
 matris2 <- matrix(c(1, 7, 12, 7, 14, 0, 8, 21, 2), nrow = 3, ncol = 3, byrow = TRUE)
 rbind(matris1, matris2)
+
+# -----------------------------------------------------------------------------------------
