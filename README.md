@@ -15,6 +15,10 @@ R İstatistiksel Programlama Dili dersi ödevleri
 
 - [![4. Hafta](https://img.shields.io/badge/4.-Hafta-pink.svg)](https://github.com/emrekayik/r-ile-programlama/blob/main/odev-4.R)
 
+- [![5. Hafta](https://img.shields.io/badge/5.-Hafta-brown.svg)](https://github.com/emrekayik/r-ile-programlama/blob/main/odev-4.R)
+
+- [![6. Hafta](https://img.shields.io/badge/6.-Hafta-green.svg)](https://github.com/emrekayik/r-ile-programlama/blob/main/odev-4.R)
+
 
 ## Kullanılan Teknolojiler
 
