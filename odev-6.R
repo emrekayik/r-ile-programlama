@@ -153,7 +153,70 @@ for(i in 1:5){
 test
 
 # -----------------------------------------------------------------------------------------
+
+# Soru 2 - Terminalden etkileşimli birlikte satır şeklinde veri girişi yaparak bunları 
+# veri isimli bir vektörde toplayan R kodunu yazınız.
+
+veri <- c()
+for(i in 1:5){
+  veri[i] <- as.character(readline())
+}
+
 # -----------------------------------------------------------------------------------------
+
+# Soru 3 - Çalışma dizinini "C:/test" biçiminde değiştiren kodu yazınız.
+
+setwd("C:/test")
+
 # -----------------------------------------------------------------------------------------
+
+# Soru 4 - Çalışma dizinininde hangi dosyaların yer aldığını gösteren kodu yazınız.
+
+list.files()
+
+# -----------------------------------------------------------------------------------------
+
+# Soru 5 - "R Programlama Dili" ifadesinin çalışma dizininizde test isimli bir dosyaya
+# yönlendirerek kaydedilmesini sağlayan R kodunu yazınız.
+
+write("R Programlama Dili", file = "test.txt")
+
+# -----------------------------------------------------------------------------------------
+
+# Soru 6 - Yukarıda yaratılan test isimli dosyaya bu kez "Bilimsel bir dildir" ifadesini
+# ekleyen R kodunu yazınız.
+
+write("Bilimsel bir dildir", file = "test.txt", append = TRUE)
+
+# -----------------------------------------------------------------------------------------
+
+# Soru 7 - Bir veri çerçevesinin konsol üzerinde görünümünün aşağıda gösterildiği gibi
+# olduğunu varsayalım. Bu veri çerçevesini benzer biçimde yarattıktan sonra çalışma dizini
+# içinde "isimler.txt" dosyasına yönlendirerek yazdırılmasını sağlayan kodu yazınız.
+
+# yas   |  isim     |  yer
+# -----------------------
+# 25    | Burak     | İstanbul
+# 21    | Begüm     | İstanbul
+# 30    | Pervin    | Sinop
+# 29    | Ata       | Isparta
+
+veri_cercevesi <- data.frame(yas = c(25, 21, 30, 29),
+                             isim = c("Burak", "Begüm", "Pervin", "Ata"),
+                             yer = c("İstanbul", "İstanbul", "Sinop", "Isparta"))
+write.table(veri_cercevesi, file = "isimler.txt", sep = "\t", row.names = FALSE)
+
+# -----------------------------------------------------------------------------------------
+
+# -----------------------------------------------------------------------------------------
+
+# -----------------------------------------------------------------------------------------
+
+# -----------------------------------------------------------------------------------------
+
+# -----------------------------------------------------------------------------------------
+
+# -----------------------------------------------------------------------------------------
+
 # -----------------------------------------------------------------------------------------
 

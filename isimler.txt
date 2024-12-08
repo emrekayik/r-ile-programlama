@@ -1,5 +1,0 @@
-"yas"	"isim"	"yer"
-25	"Burak"	"<U+0130>stanbul"
-21	"Begüm"	"<U+0130>stanbul"
-30	"Pervin"	"Sinop"
-29	"Ata"	"Isparta"
